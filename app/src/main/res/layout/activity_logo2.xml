@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".logoActivity2"
+    android:padding="15dp"
+    android:background="#FFF8E5"
+    >
+
+    <EditText
+        android:id="@+id/et_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_1"
+        android:layout_marginTop="10dp"
+        android:hint="密碼"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:paddingLeft="10dp"
+        android:textColorHint="#858484"
+        android:textSize="16sp"
+        android:textColor="#858484"
+        />
+
+    <Button
+        android:id="@+id/bt_2"
+        android:layout_width="35dp"
+        android:layout_height="33dp"
+        android:layout_below="@id/et_2"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="-101dp"
+        android:layout_marginRight="16dp"
+        />
+
+
+    <Button
+        android:id="@+id/bt_3"
+        android:layout_width="35dp"
+        android:layout_height="33dp"
+        android:layout_below="@id/et_2"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="-40dp"
+        android:layout_marginRight="16dp"
+        />
+
+    <EditText
+        android:id="@+id/et_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="230dp"
+        android:hint="電子郵件帳號"
+        android:maxLines="1"
+        android:paddingLeft="10dp"
+        android:textColorHint="#858484"
+        android:textSize="16sp"
+        android:textColor="#858484"/>
+
+    <Button
+        android:id="@+id/bt_1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/et_2"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="#474646"
+        android:text="登入"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/bt_4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/bt_3"
+        android:layout_marginTop="127dp"
+        android:backgroundTint="#474646"
+        android:text="建立新帳號"
+        android:textSize="17dp" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/et_2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-259dp"
+        android:src="@drawable/logo"
+        />
+
+</RelativeLayout>

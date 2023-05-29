@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343489515511",
+    "project_id": "registergaiabit",
+    "storage_bucket": "registergaiabit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343489515511:android:7bb7241984cd1d80b928f2",
+        "android_client_info": {
+          "package_name": "com.example.gaiabitregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343489515511-aack4sk1e64pnkhhd0vm2ocv769o4sfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaiabitregister",
+            "certificate_hash": "b4980f17e41ef94acc410c288974d1cd77bc204e"
+          }
+        },
+        {
+          "client_id": "343489515511-4su9r7l7or9hjr4vllgjgor6ndg88rq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCpDKlnwQgvA-8LOpDawA8AzHD_Tad1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343489515511-4su9r7l7or9hjr4vllgjgor6ndg88rq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
