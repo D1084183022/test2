@@ -28,6 +28,7 @@ public class logoActivity2 extends AppCompatActivity {
     String email;
     FirebaseAuth mAuth; //全域
 //git測試
+    //fuck
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
