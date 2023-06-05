@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GaiabitRegister">
-        <activity android:name=".MainActivity"></activity>
+        <activity
+            android:name=".InterfaceActivity"
+            android:exported="true" />
+        <activity android:name=".MainActivity" />
         <activity
             android:name=".logoActivity2"
             android:exported="true"
@@ -23,4 +26,3 @@
     </application>
 
 </manifest>
-

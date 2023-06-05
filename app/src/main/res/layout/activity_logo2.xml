@@ -83,7 +83,6 @@
         android:layout_below="@id/et_2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="-259dp"
-        android:src="@drawable/logo"
-        />
+        android:src="@drawable/logo" />
 
 </RelativeLayout>
