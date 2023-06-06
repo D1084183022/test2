@@ -12,6 +12,10 @@
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_buttonlogin.xml.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/buttonlogin.xml"
+    },
+    {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/ic_launcher_background.xml"
     },
@@ -66,5 +70,13 @@
     {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable-v24_logo.png.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable-v24/logo.png"
+    },
+    {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/layout_activity_interface.xml.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/layout/activity_interface.xml"
+    },
+    {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/button.xml"
     }
 ]

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/d7f0570545e42527e03e1fbe24802782/firebase-ui-auth-7.2.0/AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/46aad6dc5565e382a280cc8b7cc792fb/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/59ca8b576229d8e70d5e33ce1f5301ec/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
@@ -91,25 +91,25 @@ MERGED from [androidx.multidex:multidex:2.0.1] /Users/yagehuang/.gradle/caches/t
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/e7070fec658a109bcc12d45cddb978e8/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/42c7c55f284a712f3e6080113168f15a/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.52.1] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/6b57ebb9bdd831c3c1af2c51fac459d7/grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:5:5-23:19
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/d7f0570545e42527e03e1fbe24802782/firebase-ui-auth-7.2.0/AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/d7f0570545e42527e03e1fbe24802782/firebase-ui-auth-7.2.0/AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/yagehuang/.gradle/caches/transforms-2/files-2.1/46aad6dc5565e382a280cc8b7cc792fb/material-1.4.0/AndroidManifest.xml:22:5-20
@@ -192,28 +192,34 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yage
 		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:11:9-53
-activity#com.example.gaiabitregister.MainActivity
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:12:9-59
-	android:name
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:12:19-47
 activity#com.example.gaiabitregister.logoActivity2
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:13:9-22:20
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:12:9-14:39
 	android:exported
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:15:13-36
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:13:13-42
+activity#com.example.gaiabitregister.MainActivity
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:15:19-47
+activity#com.example.gaiabitregister.InterfaceActivity
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:16:13-63
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:19:13-63
 	android:name
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:14:13-42
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:17:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/yagehuang/Downloads/GaiabitRegister/app/src/main/AndroidManifest.xml

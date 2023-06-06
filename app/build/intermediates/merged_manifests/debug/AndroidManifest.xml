@@ -36,9 +36,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.GaiabitRegister" >
-        <activity android:name="com.example.gaiabitregister.MainActivity" />
         <activity
             android:name="com.example.gaiabitregister.logoActivity2"
+            android:exported="true" />
+        <activity android:name="com.example.gaiabitregister.MainActivity" />
+        <activity
+            android:name="com.example.gaiabitregister.InterfaceActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>

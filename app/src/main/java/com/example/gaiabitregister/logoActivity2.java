@@ -23,15 +23,10 @@ import org.jetbrains.annotations.NotNull;
 
 public class logoActivity2 extends AppCompatActivity {
     Activity context = this;
-    Button bt1, bt2,bt4,bt3;
     EditText et1, et2;
+    Button bt1,bt2,bt3,bt4;
     String email;
     FirebaseAuth mAuth; //全域
-<<<<<<< HEAD
-//git測試0601
-=======
-//git測試23
->>>>>>> 5f94796e4638d8c0543039df5298ebfc2fb930be
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

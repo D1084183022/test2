@@ -1,3 +1,9 @@
+com/example/gaiabitregister/BuildConfig.java
+ com.example.gaiabitregister.BuildConfig
+com/example/gaiabitregister/InterfaceActivity.java
+ com.example.gaiabitregister.InterfaceActivity
+ com.example.gaiabitregister.InterfaceActivity$1
+ com.example.gaiabitregister.InterfaceActivity$2
 com/example/gaiabitregister/logoActivity2.java
  com.example.gaiabitregister.logoActivity2
  com.example.gaiabitregister.logoActivity2$1
@@ -5,8 +11,6 @@ com/example/gaiabitregister/logoActivity2.java
  com.example.gaiabitregister.logoActivity2$2
  com.example.gaiabitregister.logoActivity2$3
  com.example.gaiabitregister.logoActivity2$4
-com/example/gaiabitregister/BuildConfig.java
- com.example.gaiabitregister.BuildConfig
 com/example/gaiabitregister/MainActivity.java
  com.example.gaiabitregister.MainActivity
  com.example.gaiabitregister.MainActivity$1

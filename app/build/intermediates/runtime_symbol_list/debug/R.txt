@@ -1867,6 +1867,8 @@ int drawable btn_radio_off_mtrl 0x7f07005c
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f07005d
 int drawable btn_radio_on_mtrl 0x7f07005e
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f07005f
+int drawable button 0x7f0700bc
+int drawable buttonlogin 0x7f0700bd
 int drawable common_full_open_on_phone 0x7f070060
 int drawable common_google_signin_btn_icon_dark 0x7f070061
 int drawable common_google_signin_btn_icon_dark_focused 0x7f070062
@@ -1964,6 +1966,8 @@ int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
+int id Iv_1 0x7f080223
+int id Iv_logo 0x7f080224
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
 int id SHIFT 0x7f080007
@@ -1973,6 +1977,8 @@ int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
+int id Tv_1 0x7f080225
+int id Tv_2 0x7f080226
 int id accelerate 0x7f08000e
 int id accessibility_action_clickable_span 0x7f08000f
 int id accessibility_custom_action_0 0x7f080010
@@ -2072,6 +2078,8 @@ int id bt_2 0x7f08006d
 int id bt_3 0x7f08006e
 int id bt_4 0x7f08006f
 int id btn_holder 0x7f080070
+int id btn_login 0x7f080227
+int id btn_register 0x7f080228
 int id buttonPanel 0x7f080071
 int id button_continue 0x7f080072
 int id button_create 0x7f080073
@@ -2575,6 +2583,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_interface 0x7f0b0097
 int layout activity_logo2 0x7f0b001c
 int layout activity_main 0x7f0b001d
 int layout browser_actions_context_menu_page 0x7f0b001e

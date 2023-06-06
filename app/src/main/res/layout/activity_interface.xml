@@ -4,14 +4,72 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".InterfaceActivity">
+    tools:context=".InterfaceActivity"
+    android:background="@color/white">
 
     <ImageView
+        android:id="@+id/Iv_logo"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="111dp"
         android:src="@drawable/logo" />
+    <TextView
+        android:id="@+id/Tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/Iv_logo"
+        android:text="毛焦點"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#695649"
+        />
+    <TextView
+        android:id="@+id/Tv_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/Tv_1"
+        android:text="關心每個浪浪的焦點"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#695649"
+        />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Tv_2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/button"
+        android:text="登入"
+        />
+    <TextView
+        android:id="@+id/Iv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/btn_login"
+        android:layout_centerHorizontal="true"
+        android:text="還沒有帳號嗎？"
+        android:textSize="14sp"
+        android:textColor="#F29C2B"
+        />
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:layout_below="@+id/Iv_1"
+        android:layout_centerHorizontal="true"
+        android:text="註冊"
+        android:textSize="14sp"
+        android:textColor="#DE4307"
+        android:background="#00000000"
+        />
     
 
 </RelativeLayout>

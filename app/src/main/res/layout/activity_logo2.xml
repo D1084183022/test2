@@ -63,7 +63,7 @@
         android:layout_height="50dp"
         android:layout_below="@id/et_2"
         android:layout_marginTop="60dp"
-        android:backgroundTint="#474646"
+        android:background="@drawable/buttonlogin"
         android:text="登入"
         android:textSize="17dp" />
 
@@ -73,7 +73,7 @@
         android:layout_height="50dp"
         android:layout_below="@id/bt_3"
         android:layout_marginTop="127dp"
-        android:backgroundTint="#474646"
+        android:background="@drawable/button"
         android:text="建立新帳號"
         android:textSize="17dp" />
 

@@ -10,11 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GaiabitRegister">
         <activity
-            android:name=".InterfaceActivity"
+            android:name=".logoActivity2"
             android:exported="true" />
         <activity android:name=".MainActivity" />
         <activity
-            android:name=".logoActivity2"
+            android:name=".InterfaceActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>

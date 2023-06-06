@@ -1868,6 +1868,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button
+drawable buttonlogin
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1965,6 +1967,8 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id Iv_1
+id Iv_logo
 id META
 id NO_DEBUG
 id SHIFT
@@ -1974,6 +1978,8 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id Tv_1
+id Tv_2
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2073,6 +2079,8 @@ id bt_2
 id bt_3
 id bt_4
 id btn_holder
+id btn_login
+id btn_register
 id buttonPanel
 id button_continue
 id button_create
@@ -2576,6 +2584,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_interface
 layout activity_logo2
 layout activity_main
 layout browser_actions_context_menu_page
