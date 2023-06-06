@@ -1858,8 +1858,12 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable appbackground
 drawable avd_hide_password
 drawable avd_show_password
+drawable bar
+drawable bar2
+drawable bar3
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1917,6 +1921,7 @@ drawable fui_idp_button_background_twitter
 drawable fui_idp_button_background_yahoo
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable health
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2058,6 +2063,9 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id bar
+id bar1
+id bar3
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2080,6 +2088,7 @@ id bt_3
 id bt_4
 id btn_holder
 id btn_login
+id btn_next
 id btn_register
 id buttonPanel
 id button_continue
@@ -2212,6 +2221,7 @@ id header
 id header_text
 id header_title
 id heading
+id health
 id hideable
 id home
 id homeAsUp
@@ -2587,6 +2597,9 @@ layout abc_tooltip
 layout activity_interface
 layout activity_logo2
 layout activity_main
+layout activity_step1
+layout activity_step2
+layout activity_step3
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog

@@ -54,6 +54,8 @@ public class logoActivity2 extends AppCompatActivity {
                                     FirebaseUser user = mAuth.getCurrentUser();
                                     email = user.getEmail();
                                     Toast.makeText(context, "登入成功", Toast.LENGTH_SHORT).show();
+                                    Intent intent = new Intent(logoActivity2.this,StepActivity1.class);
+                                    startActivity(intent);
 
                                 }
                                 else{

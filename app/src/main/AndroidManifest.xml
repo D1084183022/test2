@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GaiabitRegister">
         <activity
+            android:name=".StepActivity3"
+            android:exported="true" />
+        <activity
+            android:name=".StepActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".StepActivity1"
+            android:exported="true" />
+        <activity
             android:name=".logoActivity2"
             android:exported="true" />
         <activity android:name=".MainActivity" />
