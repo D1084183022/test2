@@ -4,12 +4,12 @@
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_buttonlogin.xml.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/buttonlogin.xml"
+    },
+    {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -64,6 +64,10 @@
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_walking.png.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/walking.png"
+    },
+    {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/ic_launcher_background.xml"
     },
@@ -88,6 +92,10 @@
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/layout/activity_step2.xml"
     },
     {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_money.png.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/money.png"
+    },
+    {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/layout_activity_step3.xml.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/layout/activity_step3.xml"
     },
@@ -106,6 +114,10 @@
     {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
         "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/layout_activity_home_page.xml.flat",
+        "source": "/Users/yagehuang/Downloads/GaiabitRegister/app/src/main/res/layout/activity_home_page.xml"
     },
     {
         "merged": "/Users/yagehuang/Downloads/GaiabitRegister/app/build/intermediates/res/merged/debug/drawable_bar2.png.flat",

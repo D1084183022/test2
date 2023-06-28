@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".StepActivity1">
+    tools:context=".StepActivity1"
+    android:background="#FFF8E5">
+
     <ImageView
         android:id="@+id/bar1"
         android:layout_width="wrap_content"
@@ -20,16 +22,17 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="110dp"
         android:src="@drawable/health" />
+
     <TextView
         android:id="@+id/Tv_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/health"
+        android:layout_centerHorizontal="true"
         android:text="實地採訪"
         android:textColor="#3C3C3C"
         android:textSize="28sp"
-        android:textStyle="bold"
-        android:layout_below="@+id/health"
-        android:layout_centerHorizontal="true"/>
+        android:textStyle="bold" />
     <TextView
         android:id="@+id/Tv_2"
         android:layout_width="wrap_content"
@@ -48,7 +51,7 @@
         android:layout_below="@+id/Tv_2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
-        android:background="@drawable/button"
+        android:backgroundTint="#FF9800"
         android:text="下一步" />
 
 

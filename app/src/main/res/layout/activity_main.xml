@@ -28,6 +28,7 @@
         android:id="@+id/et_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:layout_below="@id/et_1"
         android:hint="密碼"
         android:inputType="textPassword"
@@ -48,6 +49,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="-101dp"
         android:layout_marginRight="16dp"
+        android:background="#00000000"
 
         />
 
@@ -60,8 +62,9 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="-40dp"
         android:layout_marginRight="16dp"
-        />
+        android:background="#00000000"
 
+        />
 
 
     <Button
@@ -70,7 +73,7 @@
         android:layout_height="50dp"
         android:layout_below="@id/et_2"
         android:layout_marginTop="60dp"
-        android:background="@drawable/button"
+        android:backgroundTint="#985945"
         android:text="註冊"
         android:textSize="17dp" />
 

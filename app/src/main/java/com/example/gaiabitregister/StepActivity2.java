@@ -13,6 +13,7 @@ public class StepActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_step2);
+
         Button btn_next;
         btn_next = findViewById(R.id.btn_next);
 

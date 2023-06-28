@@ -45,8 +45,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
         android:background="@drawable/button"
-        android:text="登入"
-        />
+        android:text="登入" />
     <TextView
         android:id="@+id/Iv_1"
         android:layout_width="wrap_content"
@@ -58,18 +57,18 @@
         android:textSize="14sp"
         android:textColor="#F29C2B"
         />
+
     <Button
         android:id="@+id/btn_register"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="-10dp"
         android:layout_below="@+id/Iv_1"
         android:layout_centerHorizontal="true"
-        android:text="註冊"
-        android:textSize="14sp"
-        android:textColor="#DE4307"
+        android:layout_marginTop="-10dp"
         android:background="#00000000"
-        />
+        android:text="註冊"
+        android:textColor="#DE4307"
+        android:textSize="14sp" />
     
 
 </RelativeLayout>

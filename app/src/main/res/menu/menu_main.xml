@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="預約"
+        android:icon="@drawable/ic_baseline_date_range_24"/>
+    <item android:title="訊息"
+        android:icon="@drawable/ic_baseline_textsms_24"/>
+    <item android:title="主頁"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="商店"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+    <item android:title="我"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>

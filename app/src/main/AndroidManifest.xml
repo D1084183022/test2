@@ -10,18 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GaiabitRegister">
         <activity
-            android:name=".StepActivity3"
+            android:name=".HomeActivity"
             android:exported="true" />
+        <activity
+            android:name=".StepActivity3"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".StepActivity2"
-            android:exported="true" />
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".StepActivity1"
-            android:exported="true" />
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".logoActivity2"
-            android:exported="true" />
-        <activity android:name=".MainActivity" />
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".InterfaceActivity"
             android:exported="true"

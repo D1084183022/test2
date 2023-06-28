@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".StepActivity3">
+    tools:context=".StepActivity3"
+    android:background="#FFF8E5">
 
 
     <ImageView
@@ -12,6 +13,47 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/bar3"/>
+
+    <ImageView
+        android:id="@+id/walking"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_below="@+id/bar3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:src="@drawable/walking" />
+
+    <TextView
+        android:id="@+id/Tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/walking"
+        android:layout_centerHorizontal="true"
+        android:text="實地採訪"
+        android:textColor="#3C3C3C"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/Tv_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一步一步的探訪，找到流浪貓犬的希望"
+        android:textColor="#B7B7B7"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/Tv_1"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Tv_2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#FF9800"
+        android:text="下一步" />
+
 
 
 

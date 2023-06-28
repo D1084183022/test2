@@ -23,7 +23,7 @@
         android:textSize="16sp"
         android:textColor="#858484"
         />
-
+    <!-- -->
     <Button
         android:id="@+id/bt_2"
         android:layout_width="35dp"
@@ -32,6 +32,8 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="-101dp"
         android:layout_marginRight="16dp"
+        android:background="#00000000"
+
         />
 
 
@@ -43,6 +45,8 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="-40dp"
         android:layout_marginRight="16dp"
+        android:background="#00000000"
+
         />
 
     <EditText
@@ -53,9 +57,9 @@
         android:hint="電子郵件帳號"
         android:maxLines="1"
         android:paddingLeft="10dp"
+        android:textColor="#858484"
         android:textColorHint="#858484"
-        android:textSize="16sp"
-        android:textColor="#858484"/>
+        android:textSize="16sp" />
 
     <Button
         android:id="@+id/bt_1"
@@ -63,7 +67,7 @@
         android:layout_height="50dp"
         android:layout_below="@id/et_2"
         android:layout_marginTop="60dp"
-        android:background="@drawable/buttonlogin"
+        android:backgroundTint="#985945"
         android:text="登入"
         android:textSize="17dp" />
 
@@ -73,7 +77,7 @@
         android:layout_height="50dp"
         android:layout_below="@id/bt_3"
         android:layout_marginTop="127dp"
-        android:background="@drawable/button"
+        android:backgroundTint="#985945"
         android:text="建立新帳號"
         android:textSize="17dp" />
 
